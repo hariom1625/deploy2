@@ -1,0 +1,6 @@
+
+/admin
+/events
+/members
+/gallery
+/resources
