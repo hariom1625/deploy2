@@ -24,7 +24,7 @@ class CreateConference extends React.Component {
             name: this.state.name,
             link: this.state.link
         }
-        axios.post(`http://ieeemock2.azurewebsites.net/api/conferencedata/`, conference)
+        axios.post(`https://ieeemock2.azurewebsites.net/api/conferencedata/`, conference)
             .then(res => {
                 this.setState({
                     name: '',
@@ -59,7 +59,7 @@ class CreateConference extends React.Component {
                     </div>
                     <button type="submit" className="btn btn-success">Add Conference</button>
                 </form>
-                
+
             </div>
         );
     }

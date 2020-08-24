@@ -16,7 +16,7 @@ class Events extends React.Component {
     }
 
     UpdateState = () => {
-        axios.get(`http://ieeemock2.azurewebsites.net/api/eventdata/`)
+        axios.get(`https://ieeemock2.azurewebsites.net/api/eventdata/`)
         .then(res => {
             this.setState({
                 ...this.state,
