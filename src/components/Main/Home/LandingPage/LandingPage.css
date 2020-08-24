@@ -184,7 +184,7 @@ margin: auto auto;
 
  } */
 
-@media(max-width:576px) {
+@media(max-width:992px ) {
 
 .leaves{
 padding-left: 0;
@@ -215,7 +215,7 @@ padding-right: 0;
 	}
 	.heading {
 		font-weight:400;
-		font-size:2rem;
+		font-size:3rem;
 		padding-top:40px;
 		padding-bottom: 20px;
 		text-align: center;
