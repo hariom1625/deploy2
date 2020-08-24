@@ -1,6 +1,0 @@
-
-https://tender-bose-ba9674.netlify.app/admin
-https://tender-bose-ba9674.netlify.app/events
-https://tender-bose-ba9674.netlify.app/members
-https://tender-bose-ba9674.netlify.app/gallery
-https://tender-bose-ba9674.netlify.app/resources
