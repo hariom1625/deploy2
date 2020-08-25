@@ -121,7 +121,7 @@ class Footer extends Component {
             <div className="col-6 col-sm-10 text-center">
               <hr></hr>
 
-              <p className="text-white ">Web Team IIITRanchi © Copyright 2020
+              <p className="text-white ">IEEE SB Web Team IIIT Ranchi © Copyright 2020
               </p>
 
             </div>
