@@ -16,13 +16,13 @@ class Navbar extends Component {
     }
     changed(){    
         const ext = document.URL;
-        console.log(ext);
+        //console.log(ext);
         //const conti = ext.includes("00/");
         if(ext.length > 22)
         {
-            const n = ext.indexOf("pp/");
-            const exten = ext.substring(n+3);
-            console.log(exten);
+            const n = ext.lastIndexOf("/");
+            const exten = ext.substring(n+1);
+            //console.log(exten);
             if(exten === 'events'){
                 this.setState({active:'Events'});}
             if(exten === 'resources'){
@@ -35,7 +35,7 @@ class Navbar extends Component {
         else{
             this.setState({active:'Home'});
         }
-        console.log(this.state.active);
+        //console.log(this.state.active);
     }
     render(){
         return (
