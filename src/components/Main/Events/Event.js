@@ -69,6 +69,10 @@ class Event extends Component {
         })
     }
     render() {
+      const url = document.URL;
+
+      console.log(url);
+
         if (this.state.loaded) {
         return (
                 <div className=" container about-event">
