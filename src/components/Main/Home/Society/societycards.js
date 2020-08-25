@@ -4,7 +4,7 @@ export const CARDS =
         id: 0,
         name:'IEEE Computer Society',
         image: 'assets/images/ieeecs1.png',
-        shortdescription:'It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.',
+        shortdescription:'The IEEE Computer Society (IEEE CS) is the premier source for information, inspiration, and collaboration in computer science and engineering. Connecting members worldwide, the IEEE Computer Society empowers the people who advance technology by delivering tools for individuals at all stages of their professional careers. IEEE CS trusted resources include SWEBOK, continuous learning opportunities, a robust digital library, international conferences, peer-reviewed publications, and globally recognized standards.',
         fulldescription:' #1111 :The IEEE Computer Society (IEEE CS) is the premier source for information, inspiration, and collaboration in computer science and engineering. Connecting members worldwide, the IEEE Computer Society empowers the people who advance technology by delivering tools for individuals at all stages of their professional careers. IEEE CS trusted resources include SWEBOK, continuous learning opportunities, a robust digital library, international conferences, peer-reviewed publications, and globally recognized standards.'
 
 
