@@ -30,18 +30,16 @@ IEEE Past President</p>
     <div className="carousel-item px-5">
     <p className="text-white light-wt"> <i className="fas fa-quote-left pr-2"></i>It’s the interaction among people, the side conversations, and the chatting in front of a whiteboard that makes IEEE so valuable.<i className="fas fa-quote-right pl-2"></i></p>
     <div className="col-12 text-center text-white light-wt">
-      <p>- Dr. Vinton Cerf
-        IEEE Fellow
-        <span className="container">
-          Vice President &nbsp Chief Evangelist, Google
-        </span>                     
-        Received the Draper Prize for development of the Internet with IEEE members Leonard Kleinrock, Robert Kahn and Dr. Lawrence Roberts
+      <p>- Dr. Vinton Cerf,
+        <p>IEEE Fellow,
+          Vice President &nbsp Chief Evangelist, Google.                  
+          <p>Received the Draper Prize for development of the Internet with IEEE members Leonard Kleinrock, Robert Kahn and Dr. Lawrence Roberts</p>                   
+        </p>
       </p>
     </div>
     </div>
   </div>
     </div>
-
   </div>
 </div>
           </div>
