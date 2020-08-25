@@ -71,6 +71,29 @@ class Members extends Component {
                         </div>
                         <div className="col-12">
                             <CardColumns className="card-group row justify-content-center">
+                            <div>
+                    <Card>
+                    <Card.Img variant="top" className="img-fluid imgsoc img" src="/assets/images/director.jpg" alt="trial" />
+                        <div className="img-overlay col-12 hide">
+                            <a className=" btn text-white" rel="noopener noreferrer" href="" target="_blank"><i className="fab fa-linkedin fa-2x"></i></a>
+                            <a className=" btn text-white" rel="noopener noreferrer" href="" target="_blank"><i className="fab fa-github-square fa-2x"></i></a>
+                            <a className=" btn text-white" rel="noopener noreferrer" href="" target="_blank"><i className="fas fa-envelope fa-2x"></i></a>
+                            <a className=" btn text-white" rel="noopener noreferrer" href="" target="_blank"><i className="fab fa-instagram fa-2x"></i></a>
+                        </div>
+                        <Card.Body className="membercard-body">
+                            <Card.Title>Prof. Vishnu Priye </Card.Title>
+                            <Card.Subtitle className="text-muted">Faculty Advisor</Card.Subtitle>
+                            <Card.Text>
+                            Director, IIIT Ranchi
+                            </Card.Text>
+                        </Card.Body>
+                    </Card>
+                </div>
+                            </CardColumns>
+                        </div>
+                        
+                        <div className="col-12">
+                            <CardColumns className="card-group row justify-content-center">
                                 {showMember}
                             </CardColumns>
                         </div>
