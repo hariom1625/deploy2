@@ -47,7 +47,7 @@ class Members extends Component {
                         <div className="img-overlay col-12 hide">
                             <a className=" btn text-white" rel="noopener noreferrer" href={member.linkedinLink} target="_blank"><i className="fab fa-linkedin fa-2x"></i></a>
                             <a className=" btn text-white" rel="noopener noreferrer" href={member.githubLink} target="_blank"><i className="fab fa-github-square fa-2x"></i></a>
-                            <a className=" btn text-white" rel="noopener noreferrer" href={member.emailid} target="_blank"><i className="fas fa-envelope fa-2x"></i></a>
+                            <a className=" btn text-white" rel="noopener noreferrer" href={`mailto:${member.emailid}`} target="_blank"><i className="fas fa-envelope fa-2x"></i></a>
                             <a className=" btn text-white" rel="noopener noreferrer" href={member.facebookLink} target="_blank"><i className="fab fa-instagram fa-2x"></i></a>
                         </div>
                         <Card.Body className="membercard-body">
@@ -81,7 +81,7 @@ class Members extends Component {
         else {
             if (!this.state.loaded) {
                 return (
-                    <div className="loader"><HashLoader message="Hold Tight!" /></div>
+                    <div className="loader justify-content-center"><HashLoader message="Hold Tight!" /></div>
                 );
             }
         }
