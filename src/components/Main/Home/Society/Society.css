@@ -92,11 +92,11 @@ height: auto;
 padding-top: 0;
 padding-bottom: 15px;
   background-color: #4394B3;
-  height: 100px;
+  height: auto;
 
   }
 .society-name.Card-Title{
-font-size: 1.5rem;
+font-size: 1.4rem;
 }
 
 @media(max-width:600px){
@@ -118,13 +118,13 @@ font-size: 1.5rem;
     }
 }
 
-@media(min-width:1300px){
+/* @media(min-width:1300px){
   .society-card-footer{
     background-color: #4394B3;
     height: auto;
     font-size: 0.5rem;
     }
-}
+} */
 
 .text {
   color: white;
