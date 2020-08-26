@@ -11,7 +11,7 @@ export const CARDS =
        },
        {
         id: 1,
-        name:'Robotics and Automation Society',
+        name:'Robotics & Automation Society ',
         image: 'assets/images/ieeeras.png',
         shortdescription:'RAS members foster the development and facilitate the exchange of scientific and technological knowledge in robotics and automation that benefits the profession and humanity. Membership includes access to cutting-edge periodicals, the RAS Resource Center, discounts on conferences and events, and networking opportunities',
         fulldescription:' #1111 : RAS members foster the development and facilitate the exchange of scientific and technological knowledge in robotics and automation that benefits the profession and humanity. Membership includes access to cutting-edge periodicals, the RAS Resource Center, discounts on conferences and events, and networking opportunities.'
@@ -20,7 +20,7 @@ export const CARDS =
        },
       {
         id: 2,
-        name:'Signal Processing Society',
+        name:'Signal Processing Society ',
         image: 'assets/images/signal.png',
         shortdescription:'SPS is a diverse global community of signal processing engineers, researchers, students, and industry professionals, spanning a wide range of disciplines, professions, and career stages. Members enjoy access to a breadth of publications, educational materials, discounts on conferences and events, volunteer and involvement opportunities, student competitions, and the chance to network with colleagues representing more than 120 countries.',
         fulldescription:' #1111 : SPS is a diverse global community of signal processing engineers, researchers, students, and industry professionals, spanning a wide range of disciplines, professions, and career stages. Members enjoy access to a breadth of publications, educational materials, discounts on conferences and events, volunteer and involvement opportunities, student competitions, and the chance to network with colleagues representing more than 120 countries.'

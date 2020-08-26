@@ -76,9 +76,9 @@ class Members extends Component {
                     <Card>
                     <Card.Img variant="top" className="img-fluid imgsoc img" src={Director} alt="dir-sir" />
                         <div className="img-overlay col-12 hide">
-                            <a className=" btn text-white" rel="noopener noreferrer" href="/members" target="_blank"><i className="fab fa-linkedin fa-2x"></i></a>
+                            <a className=" btn text-white" rel="noopener noreferrer" href="https://www.linkedin.com/in/vishnu-priye-0347bb65" target="_blank"><i className="fab fa-linkedin fa-2x"></i></a>
                             <a className=" btn text-white" rel="noopener noreferrer" href="/members" target="_blank"><i className="fab fa-github-square fa-2x"></i></a>
-                            <a className=" btn text-white" rel="noopener noreferrer" href="/members" target="_blank"><i className="fas fa-envelope fa-2x"></i></a>
+                            <a className=" btn text-white" rel="noopener noreferrer" href="mailto:vishnupriye@iitism.ac.in" target="_blank"><i className="fas fa-envelope fa-2x"></i></a>
                             <a className=" btn text-white" rel="noopener noreferrer" href="/members" target="_blank"><i className="fab fa-instagram fa-2x"></i></a>
                         </div>
                         <Card.Body className="membercard-body">
