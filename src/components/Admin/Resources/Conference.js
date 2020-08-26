@@ -43,7 +43,7 @@ class Conference extends React.Component {
 
             <div className="row">
                 <div className="col-lg-6 col-md-12">
-                    <div className="display-4 align-content-center">Conferences</div>
+                    <div className="display-4 align-content-center">Research Papers</div>
                     <Container>
                         <ListGroup>
                             <TransitionGroup className="resource-list">

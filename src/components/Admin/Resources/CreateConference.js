@@ -47,7 +47,7 @@ class CreateConference extends React.Component {
     render() {
         return (
             <div className="col-lg-6 col-md-12">
-                <div className="display-4 align-content-center">Add New Conference</div>
+                <div className="display-4 align-content-center">Add New Research </div>
                 <form className="col-12 align-content-center" onSubmit={this.handleConferenceAdd}>
                     <div className="form-group">
                         <label htmlFor="name">Name</label>
